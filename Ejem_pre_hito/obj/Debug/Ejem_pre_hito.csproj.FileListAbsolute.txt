@@ -1,0 +1,11 @@
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_hito\obj\Debug\Ejem_pre_hito.csprojResolveAssemblyReference.cache
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_hito\obj\Debug\Ejem_pre_hito.Form1.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_hito\obj\Debug\Ejem_pre_hito.Form2.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_hito\obj\Debug\Ejem_pre_hito.Properties.Resources.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_hito\obj\Debug\Ejem_pre_hito.csproj.GenerateResource.Cache
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_hito\bin\Debug\Ejem_pre_hito.exe.config
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_hito\bin\Debug\Ejem_pre_hito.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_hito\bin\Debug\Ejem_pre_hito.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_hito\obj\Debug\Ejem_pre_hito.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_hito\obj\Debug\Ejem_pre_hito.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_hito\obj\Debug\Ejem_pre_hito.Form3.resources
